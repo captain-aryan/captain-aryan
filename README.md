@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=It's+Aryan+Solpankhi;CyberSecurity+Enthusiast;Bug+Bounty+Hunter)](https://git.io/typing-svg)
