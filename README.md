@@ -11,7 +11,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=captain-aryan" alt="captain-aryan" /></a> </p>
 
 #-----------------------------------------------------------------------------------------------------------------------------------------------#
-
+# TECH >
 [![My Skills](https://skillicons.dev/icons?i=py,html,css,bash,git,github,mysql,powershell,vscode,windows,linux)](https://skillicons.dev)
 
 #-----------------------------------------------------------------------------------------------------------------------------------------------#
