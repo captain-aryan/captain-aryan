@@ -7,7 +7,7 @@
 <h2> <img src="https://tryhackme-badges.s3.amazonaws.com/BettercallAryan.png" alt="Your Image Badge"/> </h2>
 
 
-# TECH >
+# TECH STACK>
 [![My Skills](https://skillicons.dev/icons?i=py,html,css,bash,git,github,mysql,powershell,vscode,windows,linux)](https://skillicons.dev)
 
 
