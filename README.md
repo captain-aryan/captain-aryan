@@ -11,12 +11,19 @@
 [![My Skills](https://skillicons.dev/icons?i=py,html,css,bash,git,github,mysql,powershell,vscode,windows,linux)](https://skillicons.dev)
 
 
-# TROPHIES >
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=captain-aryan" alt="captain-aryan" /></a> </p>
-
 # STATS
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=captain-aryan&show_icons=true&locale=en&layout=compact" alt="captain-aryan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=captain-aryan&show_icons=true&locale=en" alt="captain-aryan" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=captain-aryan&label=Profile%20views&color=0e75b6&style=flat" alt="captain-aryan" /> </p>
+
+# CONNECT WITH ME >
+<p align="left">
+<a href="https://twitter.com/capta1n_aryan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="capta1n_aryan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/weirdsysadmin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="weirdsysadmin" height="30" width="40" /></a>
+<a href="https://instagram.com/bettercallaryanz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bettercallaryanz" height="30" width="40" /></a>
+</p>
+
+# TROPHIES >
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=captain-aryan" alt="captain-aryan" /></a> </p>
