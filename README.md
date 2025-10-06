@@ -2,25 +2,25 @@
 
 ![terminal](https://github.com/user-attachments/assets/80854090-1c6d-48f5-9449-55d513bd6c83)
 
-#-----------------------------------------------------------------------------------------------------------------------------------------------#
+-----------------------------------------------------------------------------------------------------------------------------------------------
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=captain-aryan" alt="captain-aryan" /></a> </p>
 # TRYHACKME >
 <h2> <img src="https://tryhackme-badges.s3.amazonaws.com/BettercallAryan.png" alt="Your Image Badge"/> </h2>
 
-#-----------------------------------------------------------------------------------------------------------------------------------------------#
+-----------------------------------------------------------------------------------------------------------------------------------------------
 
 # TECH STACK>
 [![My Skills](https://skillicons.dev/icons?i=py,html,css,bash,git,github,mysql,powershell,vscode,windows,linux)](https://skillicons.dev)
 
-#-----------------------------------------------------------------------------------------------------------------------------------------------#
+-----------------------------------------------------------------------------------------------------------------------------------------------
 
 # STATS >
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=captain-aryan&show_icons=true&locale=en&layout=compact" alt="captain-aryan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=captain-aryan&show_icons=true&locale=en" alt="captain-aryan" /></p>
 
-#-----------------------------------------------------------------------------------------------------------------------------------------------#
+-----------------------------------------------------------------------------------------------------------------------------------------------
 
 # CONNECT WITH ME >
 <p align="left">
@@ -29,7 +29,7 @@
 <a href="https://instagram.com/bettercallaryanz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bettercallaryanz" height="30" width="40" /></a>
 </p>
 
-#-----------------------------------------------------------------------------------------------------------------------------------------------#
+-----------------------------------------------------------------------------------------------------------------------------------------------
 
 # TROPHIES >
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=captain-aryan" alt="captain-aryan" /></a> </p>
