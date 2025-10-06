@@ -3,16 +3,16 @@
 ![terminal](https://github.com/user-attachments/assets/80854090-1c6d-48f5-9449-55d513bd6c83)
 
 #-----------------------------------------------------------------------------------------------------------------------------------------------#
-
+# TRYHACKME >
 <img src="https://tryhackme-badges.s3.amazonaws.com/BettercallAryan.png" alt="Your Image Badge"/>
-
-#-----------------------------------------------------------------------------------------------------------------------------------------------#
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=captain-aryan" alt="captain-aryan" /></a> </p>
 
 #-----------------------------------------------------------------------------------------------------------------------------------------------#
 # TECH >
 [![My Skills](https://skillicons.dev/icons?i=py,html,css,bash,git,github,mysql,powershell,vscode,windows,linux)](https://skillicons.dev)
+
+#-----------------------------------------------------------------------------------------------------------------------------------------------#
+# TROPHIES >
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=captain-aryan" alt="captain-aryan" /></a> </p>
 
 #-----------------------------------------------------------------------------------------------------------------------------------------------#
 
