@@ -14,7 +14,7 @@
 # TROPHIES >
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=captain-aryan" alt="captain-aryan" /></a> </p>
 
-
+# STATS
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=captain-aryan&show_icons=true&locale=en&layout=compact" alt="captain-aryan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=captain-aryan&show_icons=true&locale=en" alt="captain-aryan" /></p>
