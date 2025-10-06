@@ -11,12 +11,11 @@
 [![My Skills](https://skillicons.dev/icons?i=py,html,css,bash,git,github,mysql,powershell,vscode,windows,linux)](https://skillicons.dev)
 
 
-# STATS
+# STATS >
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=captain-aryan&show_icons=true&locale=en&layout=compact" alt="captain-aryan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=captain-aryan&show_icons=true&locale=en" alt="captain-aryan" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=captain-aryan&label=Profile%20views&color=0e75b6&style=flat" alt="captain-aryan" /> </p>
 
 # CONNECT WITH ME >
 <p align="left">
@@ -27,3 +26,5 @@
 
 # TROPHIES >
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=captain-aryan" alt="captain-aryan" /></a> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=captain-aryan&label=Profile%20views&color=0e75b6&style=flat" alt="captain-aryan" /> </p>
